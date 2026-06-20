@@ -1,0 +1,61 @@
+﻿Month-fixed,Year,Port_Name - Fixed ,Port_Type-Fixed,Product_Category-fixed,Export_Value,Import_Value,Trade_Balance,Delivery_Days
+Jan,2024,Jeddah Islamic Port,Sea,Plastics & Rubber,1245.50,987.30,258.2,5
+Jan,2024,Jubail Port,Sea,Chemicals,2100,450,1650,4
+Jan,2024,King Abdulaziz Port,Sea,Base Metals,890,1230,-340,6
+Jan,2024,King Khalid Airport,Air,Machinery,340,2100,-1760,3
+Jan,2024,Bat'Ha,Land,Food Products,210,560,-350,2
+Feb,2024,Jeddah Islamic Port,Sea,Plastics & Rubber,1100.50,1050.20,50.3,3.75
+Feb,2024,Jubail Port,Sea,Chemicals,2250,480,1770,4
+Feb,2024,King Abdulaziz Port,Sea,Base Metals,950,1100,-150,5
+Feb,2024,King Khalid Airport,Air,Machinery,310,2200,-1890,3
+Feb,2024,Bat'Ha,Land,Food Products,195,520,-325,2
+Mar,2024,Jeddah Islamic Port,Sea,Plastics & Rubber,1300,1100,200,6
+Mar,2024,Jubail Port,Sea,Chemicals,2400,510,1890,3
+Mar,2024,King Abdulaziz Port,Sea,Base Metals,1020,1150,-130,5
+Mar,2024,King Khalid Airport,Air,Machinery,380,2300,-1920,2
+Mar,2024,Bat'Ha,Land,Food Products,230,580,-350,3.75
+Apr,2024,Jeddah Islamic Port,Sea,Plastics & Rubber,1150,1200,-50,5
+Apr,2024,Jubail Port,Sea,Chemicals,2100,520,1580,4
+Apr,2024,King Abdulaziz Port,Sea,Base Metals,980,1080,-100,6
+Apr,2024,King Khalid Airport,Air,Machinery,290,1950,-1660,3
+Apr,2024,Bat'Ha,Land,Food Products,180,490,-310,2
+May,2024,Jeddah Islamic Port,Sea,Plastics & Rubber,1400,1050,350,4
+May,2024,Jubail Port,Sea,Chemicals,2350,460,1890,3
+May,2024,King Abdulaziz Port,Sea,Base Metals,1100,1200,-100,5
+May,2024,King Khalid Airport,Air,Machinery,420,2400,-1980,2
+May,2024,Bat'Ha,Land,Food Products,250,600,-350,2
+Jun,2024,Jeddah Islamic Port,Sea,Plastics & Rubber,1500,1150,350,3.75
+Jun,2024,Jubail Port,Sea,Chemicals,2500,500,2000,3
+Jun,2024,King Abdulaziz Port,Sea,Base Metals,1200,1300,-100,6
+Jun,2024,King Khalid Airport,Air,Machinery,450,2500,-2050,3
+Jun,2024,Bat'Ha,Land,Food Products,280,650,-370,2
+Jul,2024,Jeddah Islamic Port,Sea,Plastics & Rubber,1350,1100,250,5
+Jul,2024,Jubail Port,Sea,Chemicals,2200,480,1720,4
+Jul,2024,King Abdulaziz Port,Sea,Base Metals,1050,1150,-100,5
+Jul,2024,King Khalid Airport,Air,Machinery,380,2100,-1720,3
+Jul,2024,Bat'Ha,Land,Food Products,220,550,-330,2
+Aug,2024,Jeddah Islamic Port,Sea,Plastics & Rubber,1200,1050,150,6
+Aug,2024,Jubail Port,Sea,Chemicals,2050,490,1560,4
+Aug,2024,King Abdulaziz Port,Sea,Base Metals,950,1100,-150,7
+Aug,2024,King Khalid Airport,Air,Machinery,350,2050,-1700,3
+Aug,2024,Bat'Ha,Land,Food Products,200,520,-320,3.75
+Sep,2024,Jeddah Islamic Port,Sea,Plastics & Rubber,1450,1200,250,5
+Sep,2024,Jubail Port,Sea,Chemicals,2300,520,1780,3
+Sep,2024,King Abdulaziz Port,Sea,Base Metals,1100,1250,-150,5
+Sep,2024,King Khalid Airport,Air,Machinery,400,2300,-1900,2
+Sep,2024,Bat'Ha,Land,Food Products,240,600,-360,2
+Oct,2024,Jeddah Islamic Port,Sea,Plastics & Rubber,1500,1150,350,4
+Oct,2024,Jubail Port,Sea,Chemicals,2450,530,1920,3
+Oct,2024,King Abdulaziz Port,Sea,Base Metals,1150,1200,-50,5
+Oct,2024,King Khalid Airport,Air,Machinery,430,2450,-2020,2
+Oct,2024,Bat'Ha,Land,Food Products,260,620,-360,2
+Nov,2024,Jeddah Islamic Port,Sea,Plastics & Rubber,1350,1100,250,5
+Nov,2024,Jubail Port,Sea,Chemicals,2200,470,1730,4
+Nov,2024,King Abdulaziz Port,Sea,Base Metals,1000,1150,-150,6
+Nov,2024,King Khalid Airport,Air,Machinery,370,2100,-1730,3
+Nov,2024,Bat'Ha,Land,Food Products,210,540,-330,2
+Dec,2024,Jeddah Islamic Port,Sea,Plastics & Rubber,1600,1200,400,4
+Dec,2024,Jubail Port,Sea,Chemicals,2600,550,2050,3
+Dec,2024,King Abdulaziz Port,Sea,Base Metals,1250,1300,-50,5
+Dec,2024,King Khalid Airport,Air,Machinery,500,2600,-2100,3.75
+Dec,2024,Bat'Ha,Land,Food Products,300,700,-400,2
