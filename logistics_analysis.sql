@@ -64,7 +64,7 @@ SELECT Port_Name,
 	AVG(Delivery_Days) AS Fastest_AVG_Delivery_Time
 FROM shipments
 GROUP BY Port_Name
-ORDER BY Fastest_AVG_Delivery_Time ASC   -- ✅ FIXED! ASC for fastest
+ORDER BY Fastest_AVG_Delivery_Time ASC  
 LIMIT 1;
 
 -- 10. Show all ports whose total trade balance is negative.
